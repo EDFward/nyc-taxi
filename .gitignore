@@ -1,1 +1,12 @@
+*.swp
+*.log
+
 data/
+.idea/
+
+# IPython.
+.ipynb_checkpoints/
+metastore_db/
+
+# Spark.
+spark-1.*/
